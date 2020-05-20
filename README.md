@@ -17,4 +17,4 @@ Mailist can be obtained by dump or by using the Slayer Leecher Tools. The tools 
 https://github.com/robbyparlan/mail-filter
 
 # Media Sosial :
-- https://linktr.ee/doko1554
+https://linktr.ee/doko1554
